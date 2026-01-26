@@ -3,12 +3,17 @@
 I'm a software engineer working across backend development,
 I build flexible and durable microservices by Rest APIs design (preferable Hexagonal Architecture), Telegram bots, tools. 
 Focused on performance, reusability, testability, clean code, and scalable architecture. Strong communicator and team player with hands-on experience in gRPC, OpenFL, FFMPEG.
+<div align="center">
 
-How to reach me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lazovskyi/)
-[![Email](https://img.shields.io/badge/Gmail-j.lazovskyi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:j.lazovskyi@gmail.com)
+  # How to reach me
+<br>
 
-# Tech Stack
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/lazovskyi/)
+  [![Gmail](https://img.shields.io/badge/Gmail-j.lazovskyi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:j.lazovskyi@gmail.com)
+
+<br>
+
+### Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=golang,java,js,linux,aws,gcp,git,docker&cacheBust=1764553179"/>
 </p>
@@ -52,4 +57,5 @@ How to reach me:
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=yaGatito&theme=dark&hide_border=true" height="220" alt="Streak Stats" />
+</div>
 </div>
