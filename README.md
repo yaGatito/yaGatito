@@ -6,7 +6,7 @@ Focused on performance, reusability, testability, clean code, and scalable archi
 
 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lazovskyi/)
-[![Gmail](https://img.shields.io/badge/Gmail-j.lazovskyi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:j.lazovskyi@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-j.lazovskyi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:j.lazovskyi@gmail.com)
 
 # Tech Stack
 <p align="center">
