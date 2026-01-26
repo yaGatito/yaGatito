@@ -22,7 +22,7 @@ How to reach me:
   <!-- <img src="https://github.com/yaGatito/gofile/blob/ecef9fbc5eadf4d2857aeff6572ac18a140da671/res/%20icon.png" width="200" /> -->
   <p style="margin-top: 10px; font-size: 30px; font-weight: 600;">Gofile</p>
   </a>
-  <p>This simple code-client monolith server application written on Java powered with frontend.</p>
+  <p>This simple code-client provides API to upload/download/remove files from <a href="https://gofile.io/api">Gofile API</a> using free tier up to 100GB of traffic.</p>
 </td>
 <td align="left" style="padding: 20px;">
     <a href="https://github.com/yaGatito/j-conference">
