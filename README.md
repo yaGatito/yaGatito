@@ -23,6 +23,22 @@ Focused on performance, reusability, testability, clean code, and scalable archi
 <table>
 <tr>
 <td align="center" style="padding: 20px;">
+    <a href="https://github.com/yaGatito/dualsense-binder">
+    <!-- <img src="https://github.com/yaGatito/gofile/blob/ecef9fbc5eadf4d2857aeff6572ac18a140da671/res/%20icon.png" width="200" /> -->
+    <p style="margin-top: 10px; font-size: 30px; font-weight: 600;">Dualsense Linux Binder</p>
+    </a>
+    <p>The cmd line tool provides comfy way to override buttons like PS, X, △ and other buttons. </p>
+</td>
+<td align="center" style="padding: 20px;">
+    <a href="https://github.com/yaGatito/video-provider">
+    <!-- <img src="https://github.com/yaGatito/gofile/blob/ecef9fbc5eadf4d2857aeff6572ac18a140da671/res/%20icon.png" width="200" /> -->
+    <p style="margin-top: 10px; font-size: 30px; font-weight: 600;">Video Provider</p>
+    </a>
+    <p> Video-hosting platform. </p>
+</td>
+</tr>
+<tr>
+<td align="center" style="padding: 20px;">
   <a href="https://github.com/yaGatito/gofile">
   <!-- <img src="https://github.com/yaGatito/gofile/blob/ecef9fbc5eadf4d2857aeff6572ac18a140da671/res/%20icon.png" width="200" /> -->
   <p style="margin-top: 10px; font-size: 30px; font-weight: 600;">Gofile</p>
@@ -36,15 +52,6 @@ Focused on performance, reusability, testability, clean code, and scalable archi
     </a>
     <p>A 'jConfereneces' is a monolith server application written on Java powered with frontend.</p>
 </td>
-</tr>
-<tr>
-  <td align="center" style="padding: 20px;">
-    <a href="https://github.com/yaGatito/WeatherTelegramBot">
-    <!-- <img src="https://github.com/yaGatito/gofile/blob/ecef9fbc5eadf4d2857aeff6572ac18a140da671/res/%20icon.png" width="200" /> -->
-    <p style="margin-top: 10px; font-size: 30px; font-weight: 600;">WeatherTelegramBot</p>
-    </a>
-    <p>This telegram bot provides actual weather personally for user.</p>
-  </td>
 </tr>
 </table>
 
